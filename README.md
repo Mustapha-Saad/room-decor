@@ -1,3 +1,5 @@
+![Design preview for the coding challenge](./img/desktop-preview.jpg)
+
 # Room Homepage
 
 A challenge from Frontend Mentor.
